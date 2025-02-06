@@ -3,13 +3,13 @@
 # Declare variables to be passed into your templates.
 
 vote:
-  replicaCount: 2
+  replicaCount: 3
 
   image:
     repository: schoolofdevops/vote
     pullPolicy: IfNotPresent
     # Overrides the image tag whose default is the chart appVersion.
-    tag: "v6"
+    tag: "v7"
 
   imagePullSecrets: []
   nameOverride: ""
