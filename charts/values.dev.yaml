@@ -40,7 +40,7 @@ vote:
   service:
     type: NodePort
     port: 80
-    nodePort: 30300
+    nodePort: 30500
 
   ingress:
     enabled: false
