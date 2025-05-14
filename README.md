@@ -5,7 +5,7 @@ This project helps you learn how to automate Kubernetes application deployments 
 ## 🔧 What You'll Build
 - A local Kubernetes cluster using KIND
 - ArgoCD installation with port-forward access
-- A GitHub-backed app deployed via GitOps
+- A GitHub-backed app deployed via GitOps (App Deployment Code attached as charts)
 - (Bonus) Automated sync and rollback policies
 
 ## 📦 Tools Required
